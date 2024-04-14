@@ -9,7 +9,7 @@
   --color-border: hsl(0, 0%, 100%);
   --color-text-primary: hsl(288, 23%, 23%);
   --color-text-secondary: hsl(228, 10%, 47%);
-  --color-line: hsl(0, 0%, 59%);
+  --color-line: hsl(0deg 0% 59% / 15%);
 
   --font-family: "Kumbh Sans", sans-serif;
   --font-weight-bold: 700;
