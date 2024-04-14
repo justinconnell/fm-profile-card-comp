@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Methodology
 
-1. Start with the HTML markup for the content and provide context through sematic HTML.
+1. Start with the HTML markup for the content and provide context through semantic HTML.
 2. Implement the form and function that is supported by CSS.
 3. Implement application logic with JavaScript.
 
